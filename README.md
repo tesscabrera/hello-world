@@ -1,4 +1,7 @@
 # hello-world
+
+Hi all, my name is Tessy. I am new here.
+
 This is my first ever repository following the tutorial at https://guides.github.com/activities/hello-world/#intro
 Learned how to: 
 1. Create a Repository
